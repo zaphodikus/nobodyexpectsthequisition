@@ -1,0 +1,568 @@
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:loading sounds...
+INFO:root:  sample clack1.wav length 16853 loaded
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:loading sounds...
+INFO:root:  sample clack1.wav length 10133 loaded
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:loading sounds...
+INFO:root:  sample clack1.wav length 10133 loaded
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 10133 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 19100 loaded
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 40532 loaded
+INFO:root:Starting. message text= HELLO WORLD. 1234567
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 40532 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 76400 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 74152 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 74156 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+INFO:root:Starting. message text= abc
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 40532 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 76400 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 74152 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 74156 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 40532 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 76400 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 74152 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 74156 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 32540 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 54836 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 74152 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 74156 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 25344 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 25344 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 25344 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 25344 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 25344 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 25344 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 25344 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 25344 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 25344 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 25344 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 25344 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 25344 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  appending output wav file 8325 frames
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 33300
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 33300
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 33300
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 33300
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 33300
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  appending output wav file 16650 frames
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+WARNING:root:  sample sound clack1.wav truncated to 8325 samples
+INFO:root:  sample clack2.wav length 25344 loaded
+WARNING:root:  sample sound clack2.wav truncated to 8325 samples
+INFO:root:  sample clack3.wav length 25344 loaded
+WARNING:root:  sample sound clack3.wav truncated to 8325 samples
+INFO:root:  sample clack4.wav length 25344 loaded
+WARNING:root:  sample sound clack4.wav truncated to 8325 samples
+INFO:root:  sample silence.wav length 25344 loaded
+WARNING:root:  sample sound silence.wav truncated to 8325 samples
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c1234567890 qwertyuiop ---- asdfghjkl
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 26000
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c1234567890 qwertyuiop ---- asdfghjkl＃＃ 1234567890--qwertyuiop  asdfghjkl
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 30000
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 30000
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 30000
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 30000
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 30000
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c1234567890 qwertyuiop ---- asdfghjkl＃＃ 1234567890--qwertyuiop  asdfghjkl񊵪񋝄�5
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 29000
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 29000
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 29000
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 29000
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 29000
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= a b c1234567890 qwertyuiop ---- asdfghjkl＃＃ 1234567890--qwertyuiop  asdfghjkl񊵪񋝄񌄞񌫸񍓈＃ 
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack2.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack3.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack4.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= asdfghjkl񊵪񋝄񌄞񌫸񍓈＃ 
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack2.wav length 23344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack3.wav length 22416 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack4.wav length 24208 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK
+INFO:root:Starting. message text= Nobody expects the Spanish Inquisition!
+INFO:root:Init Graphics mode...
+INFO:root:Graphics mode OK, artwork loaded
+INFO:root:428 elements merging...
+INFO:root:Found 39 elements OK
+INFO:root:Compiled 39 keys OK
+INFO:root:Loading sounds...
+INFO:root:  sample clack1.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack2.wav length 23344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack3.wav length 22416 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample clack4.wav length 24208 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  sample silence.wav length 25344 loaded
+INFO:root:  sample padded out to 29200
+INFO:root:  created noise.wav wav file OK
+DEBUG:root:  closing output noise.wav wav file
+INFO:root:[=============]
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -framerate  3/1  -i  .\images\keyb%03d.jpg  -r  30  -pix_fmt  yuv420p  out.mp4  -y 
+INFO:root:  Movie saved OK
+INFO:root:[=============]
+INFO:root:Mix video out.mp4 and Audio file noise.wav
+INFO:root:ffmpeg: C:\Tools\ffmpeg\bin\ffmpeg.exe
+INFO:root:args: -i  out.mp4  -i  noise.wav  -c:v  copy  -y  final.mp4 
+INFO:root:  Movie converted OK

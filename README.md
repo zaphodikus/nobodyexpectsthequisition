@@ -1,6 +1,7 @@
-# nobodyexpectsthequisition
+# nobody expects the spanish inquisition
 Python typewriter invisible typist movies. Makes video from a text message showing keys tapping realistically. Monty Python reference, [nobody expects the Spanish Inquisition](https://www.youtube.com/watch?v=v9jBPBqIUL4).
 
-Various typewriter sounds randomly create realistic typewritter tapping noises that correspond with ghost typing key presses. Requires FFmpeg to convert the images to movie (code is included, to do this for windows, may work on posix with minimal mods). Or manualyl convert images using a digital movie editor (ffmpeg is just less fuss.)
-
-Note, this is a **just-works** tm Pyton script, not intended to work with your own typewriter unless you do a little bit of work to correctly position masks.
+Various typewriter sounds randomly create realistic typewritter tapping noises that correspond with ghost typing key presses. Requires FFmpeg to convert the images to movie (code is included, to do this for windows, may work on posix with minimal mods). Or manually convert images using a digital movie editor (ffmpeg is just less fuss.) This is a very unfriendly script, written as a once-off video making exercise and only ever used in 2 videos, the one for testing this effect is linked above, and was created using [Corel VideoStudio](https://www.videostudiopro.com/en/products/videostudio/pro/), probably version 8. Although any video editor under the sun can be used with this program. images are saved to a folder called images with 1 bitmap per keyframe for importing if you are doing this manually.
+## Disclaimers
+Note, this is a **just-works** (tm) Pyton script, viz. if this code works, I wrote it. Anything else is a fault with your processor. Not intended to work with your own actual typewriter unless you do a little bit of work to correctly position masks.
+Credits go to [Monty Python](http://montypython.com/)
